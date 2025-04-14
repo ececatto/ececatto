@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35¢er=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+Paslauski;I+study+computer+science+at+Unijui;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35¢er=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eunice+Cecatto;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ececatto&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Igor Paslauski github stats"/> 
@@ -14,10 +14,10 @@
 </p>
 
 <div align="center">  
-    <a href="https://www.instagram.com/igor_paslauski/" target="_blank">
+    <a href="https://www.instagram.com/eunicececatto/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/igor-paslauski-de-oliveira" target="_blank">
+    <a href="https://www.linkedin.com/in/eunice-cecatto-476b2042/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div> 
